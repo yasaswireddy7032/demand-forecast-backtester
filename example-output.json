@@ -1,0 +1,38 @@
+{
+  "folds": 140,
+  "model_mae": 1.528213333655269,
+  "seasonal_naive_mae": 2.052209565405696,
+  "relative_mae_improvement": 0.25533271093921617,
+  "last_predictions": [
+    {
+      "cutoff": 235,
+      "actual": 62.109468256208366,
+      "prediction": 64.41498326857204,
+      "baseline": 62.336960293501726
+    },
+    {
+      "cutoff": 236,
+      "actual": 61.8814535460337,
+      "prediction": 59.67834393288694,
+      "baseline": 57.772365056247516
+    },
+    {
+      "cutoff": 237,
+      "actual": 61.74454073401081,
+      "prediction": 61.983381451273296,
+      "baseline": 61.754332493286576
+    },
+    {
+      "cutoff": 238,
+      "actual": 69.0119405397378,
+      "prediction": 69.04620881185357,
+      "baseline": 66.9140507673301
+    },
+    {
+      "cutoff": 239,
+      "actual": 73.25675569839889,
+      "prediction": 76.4225512274256,
+      "baseline": 76.30861591985277
+    }
+  ]
+}
